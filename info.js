@@ -10,11 +10,11 @@ export const info = {
   phoneNumber: "+523332559118",
   whatsapp: {
     value: "+523332559118",
-    message: "Buen día, me puede dar más información sobre BioPoliagua, por favor",
+    message: "Buen día, me puede dar más información sobre Exodus Max, por favor",
   },
   social: {
-    facebook: "biopoliagua",
-    instagram: "biopoliagua",
+    facebook: "agrotitanesMX",
+    instagram: "agrotitanesmx",
   },
   address: {
     address: "TULIPANES 32",
@@ -23,7 +23,7 @@ export const info = {
     city: "CUAUTLA",
     state: "MORELOS",
   },
-  optInWebhook: 'https://hook.us1.make.com/jb1a0vxtvz8gfvm0vth7kpqb42j87or3',
+  optInWebhook: 'https://hook.us1.make.com/gdtuxvb7gjj34jnokxmw8sfdsrti9un2',
   surveyRedirect: '',
   privacyNotice: "/aviso-privacidad",
   termsConditions: "/aviso-privacidad",
